@@ -1,0 +1,5 @@
+<?php
+$hello = "Hello ";
+$name = "megumi";
+$world = "'s world!";
+echo $hello . $name . $world; ?>
